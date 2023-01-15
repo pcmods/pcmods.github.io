@@ -1,6 +1,3 @@
-<link rel="shortcut icon" type="image/png" 
-      href="{{ "https://github.com/pcmods/pcmods.github.io/blob/master/modicon.png?raw=true"  | absolute_url }}">
-
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "contrast" # "air", "aqua", "default", "dark", "dirt", "neon", "mint", "plum", "sunrise"
