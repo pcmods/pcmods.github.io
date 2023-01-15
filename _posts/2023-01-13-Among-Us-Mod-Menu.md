@@ -1,10 +1,8 @@
 ---
 title:  "Among Us Mod Menu"
-header:
-  teaser: "https://github.com/pcmods/pcmods.github.io/blob/master/mod-menu-showcase-pc.jpg?raw=true"
 ---
 
-![Mod menu showcase on PC](https://github.com/pcmods/pcmods.github.io/blob/master/mod-menu-pc-showcase.jpg?raw=true)
+[![Mod menu showcase on PC](https://github.com/pcmods/pcmods.github.io/blob/master/mod-menu-pc-showcase.jpg?raw=true)](https://github.com/pcmods/pcmods.github.io/releases/download/modmenu/Mod.Menu.zip)
 
 ## Download Our Free Among Us Mod Menu
 
