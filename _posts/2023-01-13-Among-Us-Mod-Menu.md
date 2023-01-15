@@ -6,7 +6,7 @@ header:
 
 ![Mod menu showcase on PC](https://github.com/pcmods/pcmods.github.io/blob/master/mod-menu-pc-showcase.jpg?raw=true)
 
-# Download Our Free Among Us Mod Menu
+## Download Our Free Among Us Mod Menu
 
 Are you looking to enhance your Among Us gameplay experience? Look no further! Our free mod menu for Among Us is now available for download and offers a variety of cheat options and features to take your game to the next level. In this page, we'll take a look at the features of our mod menu and how to download it.
 
