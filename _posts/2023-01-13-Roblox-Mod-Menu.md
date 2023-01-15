@@ -4,7 +4,7 @@ header:
   teaser: "https://github.com/pcmods/pcmods.github.io/blob/master/mod-menu-showcase-pc.jpg?raw=true"
 ---
 
-![Mod menu showcase on PC](https://github.com/pcmods/pcmods.github.io/blob/master/mod-menu-showcase-pc.jpg?raw=true)
+![Mod menu showcase on PC](https://github.com/pcmods/pcmods.github.io/blob/master/mod-menu-pc-showcase.jpg?raw=true)
 
 ## Download Our Free Roblox Mod Menu
 
