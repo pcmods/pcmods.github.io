@@ -1,5 +1,7 @@
 ---
 title:  "GTA 5 Mod Menu"
+header:
+  teaser: "https://github.com/pcmods/pcmods.github.io/blob/master/mod-menu-showcase-pc.jpg?raw=true"
 ---
 
 ## Download Our Free GTA 5 Mod Menu
