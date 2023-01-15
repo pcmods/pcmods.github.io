@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Rick Campbell"
-  avatar           : "https://github.com/pcmods/pcmods.github.io/blob/master/modicon.png"
+  avatar           : "https://github.com/pcmods/pcmods.github.io/blob/master/modicon.png?raw=true"
   bio              : "I create awesome game mods for PC."
   # location         : "Somewhere"
   email            :
